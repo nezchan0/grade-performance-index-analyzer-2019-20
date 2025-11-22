@@ -1,5 +1,7 @@
 # Result Analysis (Class 12 Project – 2019)
-**Status:** *Archived – legacy school project*
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Status: Archived](https://img.shields.io/badge/status-archived-lightgrey)
+
 
 This repository contains my Class 12 Computer Science final project, originally built in **2019**.  
 I am publishing it now purely for **archival and learning history purposes**.  
@@ -59,21 +61,13 @@ That experience played a major role in inspiring me to choose **Computer Science
 
 ---
 
-## 📂 **Project Structure**
-```
-result_analysis.py        # Main application
-requirements.txt          # Python library dependencies
-README.md                 # Documentation
-```
-
----
-
 ## 📦 **Installation**
 
 ### 1. Install system dependency (for Linux users only):
 ```
 sudo apt install python3-tk
 ```
+*Note: Tkinter comes pre-installed on Windows with the standard Python installer from python.org.*
 
 ### 2. Create & activate a virtual environment
 ```
@@ -96,14 +90,6 @@ python result_analysis.py
 
 ---
 
-## 🗂️ **Why this repository is archived**
-
-This project represents my early coding journey (2019).  
-I am archiving it to preserve it as a **legacy educational project** — not as an example of my current coding practices.
-
-My newer and more advanced projects are available on my GitHub profile.
-
----
 
 ## 📸 Project Flow (Screenshots)
 
@@ -148,3 +134,25 @@ After submitting the number of students, the tool displays overall grade totals,
 ### **7. Generated Graph – PI vs Subject**
 ![PI Graph](ProjectFlowImages/7.png)  
 This bar graph visualizes the **Performance Index (PI)** for each subject, allowing easy comparison.
+
+---
+
+## 🗂️ **Why this repository is archived**
+
+This project represents my early coding journey (2019).  
+I am archiving it to preserve it as a **legacy educational project** — not as an example of my current coding practices.
+
+My newer and more advanced projects are available on my GitHub profile.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and distribute it freely, with attribution.
+
+
+---
+
+## 🧑‍💻 Author
+
+Alok Kumar Maurya – Developer | Email: [alok05.maurya@gmail.com](alok05.maurya@gmail.com)
