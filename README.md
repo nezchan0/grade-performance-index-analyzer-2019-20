@@ -102,3 +102,49 @@ This project represents my early coding journey (2019).
 I am archiving it to preserve it as a **legacy educational project** — not as an example of my current coding practices.
 
 My newer and more advanced projects are available on my GitHub profile.
+
+---
+
+## 📸 Project Flow (Screenshots)
+
+Below are the step-by-step screenshots demonstrating how the application works.
+
+### **1. Application Window on Launch**
+![Application Window](ProjectFlowImages/1.png)  
+This is the initial GUI that appears when the program is launched. Users can enter subject names and grade counts here.
+
+---
+
+### **2. Filling Values for the First Subject**
+![First Row Filled](ProjectFlowImages/2.png)  
+The first row is filled with grade-wise student counts for a subject before calculation.
+
+---
+
+### **3. After Submitting the First Subject**
+![After First Submit](ProjectFlowImages/3.png)  
+After clicking **Submit**, the tool displays weighted grade values, total grade count, total weighted score, and the calculated PI for that subject.
+
+---
+
+### **4. All Subjects Filled and Submitted**
+![All Subjects Submitted](ProjectFlowImages/4.png)  
+Once all subjects are filled and submitted, the application shows PI for each subject.
+
+---
+
+### **5. After Clicking “Overall RESULT”**
+![Overall Result Prompt](ProjectFlowImages/5.png)  
+Clicking **Overall RESULT** prompts the user to enter the total number of students.
+
+---
+
+### **6. Final Overall Metrics**
+![Overall Metrics](ProjectFlowImages/6.png)  
+After submitting the number of students, the tool displays overall grade totals, combined weighted score, and final PI.
+
+---
+
+### **7. Generated Graph – PI vs Subject**
+![PI Graph](ProjectFlowImages/7.png)  
+This bar graph visualizes the **Performance Index (PI)** for each subject, allowing easy comparison.
