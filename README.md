@@ -1,9 +1,9 @@
-# Result Analysis (Class 12 Project – 2019)
+# Grade Performance Index Analyzer (Class 12th Project – 2019-20)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Status: Archived](https://img.shields.io/badge/status-archived-lightgrey)
+![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey)
 
 
-This repository contains my Class 12 Computer Science final project, originally built in **2019**.  
+This repository contains my Class 12 Computer Science final project, originally built in **2019-20**.  
 I am publishing it now purely for **archival and learning history purposes**.  
 My current projects on GitHub reflect my modern coding skills — this one is preserved as a meaningful milestone.
 
